@@ -1,0 +1,3 @@
+This release is for Archicad 26 ONLY.The data_access contains various data access options - see doc file for detailes info on use. 
+The orientation Add_on marks walls with their orientation i.e. North, South, etc. Requires that  the plan to be configured with a new property of "Location" under the "Environment" group. "Location" is classified as "Wall". 
+Direction is determined based on the direction of the reference line of the wall.
